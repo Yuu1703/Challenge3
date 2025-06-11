@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Challenge 3</string>
+    <string name="title_app">My App</string>
+    <string name="addition">Addition</string>
+    <string name="subtraction">Subtraction</string>
+    <string name="multiplication">Multiplication</string>
+    <string name="status_default">Score: 0   Life: 3   Timer: 60</string>
+    <string name="sample_question">3 + 5 = ?</string>
+    <string name="enter_answer">Enter your answer</string>
+    <string name="ok">OK</string>
+    <string name="next_question">Next Question</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="final_score">Score: 0</string>
+    <string name="play_again">Play Again</string>
+    <string name="exit">Exit</string>
+</resources>
